@@ -12,7 +12,7 @@
     <p>
     <a href="login.php"><button>Login</button></a>
     </p>
-    <p> Já é cadastrado? Acesse:</p>
+    <p> Já não é cadastrado? Acesse:</p>
     <p>
     <a href="cadastrar"><button>Cadastrar</button></a>
     </p>
